@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7448fa04-0bc5-4355-a772-934f60c1dddf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/thymeleaf/ThymeleafBasicApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/thymeleaf/basic/BasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/thymeleaf/basic/TemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/attribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/basic-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/condition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/each.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/literal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/operation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/text-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/text-unescaped.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/variable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template/fragment/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template/fragment/fragmentMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template/fragment/layout/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/template/fragment/layout/layoutMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/thymeleaf/ThymeleafBasicApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bkE4D6kSgjCjSTlkyOlpFnTAwe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/thymeleaf-basic/섹션2/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "spring.configuration.checksum": "7a8fab776c2c03379bb7af203ad40b1b",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\thymeleaf-basic\src\main\resources\templates\template\fragment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ThymeleafBasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="thymeleaf-basic.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.thymeleaf.ThymeleafBasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7448fa04-0bc5-4355-a772-934f60c1dddf" name="Changes" comment="" />
+      <created>1706750482695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706750482695</updated>
+      <workItem from="1706750483691" duration="5411000" />
+      <workItem from="1706762290284" duration="2830000" />
+      <workItem from="1706856849032" duration="9469000" />
+      <workItem from="1706878308221" duration="43000" />
+      <workItem from="1707284646123" duration="761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
