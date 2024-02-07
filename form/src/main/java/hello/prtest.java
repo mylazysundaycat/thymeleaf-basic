@@ -1,2 +1,5 @@
-package hello;public class prtest {
+package hello;
+
+public class prtest {
+    String test
 }
